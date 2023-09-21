@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picassoVirtualList/static/css/main.ac0d142c.css",
+    "main.js": "/picassoVirtualList/static/js/main.46f02e22.js",
+    "index.html": "/picassoVirtualList/index.html",
+    "main.ac0d142c.css.map": "/picassoVirtualList/static/css/main.ac0d142c.css.map",
+    "main.46f02e22.js.map": "/picassoVirtualList/static/js/main.46f02e22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac0d142c.css",
+    "static/js/main.46f02e22.js"
+  ]
+}
