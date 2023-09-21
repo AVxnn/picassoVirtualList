@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/picassoVirtualList/static/css/main.ac0d142c.css",
-    "main.js": "/picassoVirtualList/static/js/main.fe14cdde.js",
+    "main.js": "/picassoVirtualList/static/js/main.8cea31fa.js",
     "index.html": "/picassoVirtualList/index.html",
     "main.ac0d142c.css.map": "/picassoVirtualList/static/css/main.ac0d142c.css.map",
-    "main.fe14cdde.js.map": "/picassoVirtualList/static/js/main.fe14cdde.js.map"
+    "main.8cea31fa.js.map": "/picassoVirtualList/static/js/main.8cea31fa.js.map"
   },
   "entrypoints": [
     "static/css/main.ac0d142c.css",
-    "static/js/main.fe14cdde.js"
+    "static/js/main.8cea31fa.js"
   ]
 }
